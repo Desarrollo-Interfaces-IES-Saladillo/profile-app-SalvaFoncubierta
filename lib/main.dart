@@ -19,14 +19,6 @@ class MyProfile extends StatelessWidget {
                 backgroundImage: AssetImage('assets/images/obiwan.png'),
               ),
               Text(
-                'Obi-Wan Kenobi',
-                style: TextStyle(
-                  color: Colors.white,
-                  fontSize: 24.0,
-                  fontFamily: 'PressStart2P',
-                ),
-              ),
-              Text(
                 'Jedi master',
                 style: TextStyle(
                   fontSize: 18.0,
